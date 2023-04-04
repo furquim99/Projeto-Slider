@@ -1,4 +1,4 @@
-# ✨ Project- Persona 5 page
+# ✨ Project- Slider
 
 ## 📕 Descrição
  - O objetivo dessa aplicação é fazer uma página de apresentação dos frameworks: React, Angular, Vuejs, Flutter e outros. Se tem um menu em que
